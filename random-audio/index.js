@@ -1,8 +1,4 @@
-
 var audioFiles = ["<audio src='https://s3.amazonaws.com/my-ssml-samples/Flourish.mp3' />","<audio src='https://s3.amazonaws.com/my-ssml-samples/cheap_thrills.mp3' />","<audio src='https://s3.amazonaws.com/my-ssml-samples/Flourish.mp3' />"];  // Array of items
-
-
-
 
 var Alexa = require('alexa-sdk');
 
